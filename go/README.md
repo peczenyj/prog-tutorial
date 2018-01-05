@@ -8,6 +8,6 @@ Before start, be sure you have your environment ready to go development - I will
 
 See this documentation https://golang.org/doc/install
 
-# Aditional information
+# Aditional Information
 
 You may need follow this tour: https://tour.golang.org/welcome/1
